@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: gray;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
