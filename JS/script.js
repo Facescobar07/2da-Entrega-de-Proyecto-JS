@@ -35,7 +35,7 @@ const juegos = [
     new Juego('Dragon Ball Z', 2003, 'Peleas', 10, 7)
 ]
 
-//--------------------Pedir que se ingresen libros nuevos y sumarlos al array-----------------------//
+//--------------------Pedir que se ingresen juegos nuevos y sumarlos al array-----------------------//
 
 let continuar = true;
 
